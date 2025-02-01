@@ -393,8 +393,7 @@ class AirdropBot {
     }
 
     console.log('\n' + chalk.gray('─'.repeat(50)) + '\n');
-    Logger.logInfo('正在启动机器人...
-');
+    Logger.logInfo('正在启动机器人...');
     this.webSocketManager.initialize(useProxy);
   }
 
