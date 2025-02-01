@@ -29,8 +29,9 @@ npm install
 ## 配置说明
 
 ### 账户设置
-1、注册帐号：[https://app.minionlab.ai](https://app.minionlab.ai/?referralCode=vLfYVrZE)
-2、在项目根目录创建 `accounts.txt` 文件，使用以下格式：
+- 1、注册帐号：[https://app.minionlab.ai](https://app.minionlab.ai/?referralCode=vLfYVrZE)
+
+- 2、在项目根目录创建 `accounts.txt` 文件，使用以下格式：
 ```
 email1@example.com:password1
 email2@example.com:password2
